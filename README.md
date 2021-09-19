@@ -1,7 +1,7 @@
 # Inteligencia Artificial
-## Alejandro Arzola García
-## Néstor García Moreno
-## Samuel Ramos Barroso
+## Jaramillo Carrero Jose
+##  Zambrano Espinal Emma
+## Zapata Leon Josymar
 
 #### Lenguaje: Java
 #### Entorno: Eclipse
